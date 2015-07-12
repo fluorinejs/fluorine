@@ -1,2 +1,2 @@
-# widgets
-Modular, responsive widgets for ReactJS
+# flourine
+Light-weight, reactive, elementary widgets for ReactJS.

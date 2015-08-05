@@ -1,6 +1,6 @@
-<center>
-![FluorineJS Logo](https://avatars2.githubusercontent.com/u/13028533?v=3&s=256)
-</center>
+<p align="center">
+    <img alt="FluorineJS" src="https://raw.githubusercontent.com/fluorinejs/logo/master/fluorine.png" width="250">
+</p>
 
 fluorine
 ===
